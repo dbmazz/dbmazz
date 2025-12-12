@@ -24,3 +24,4 @@ echo ""
 cd /home/happycoding/Documents/projects/dbmazz/dbmazz
 ./target/release/dbmazz
 
+

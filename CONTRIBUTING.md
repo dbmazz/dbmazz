@@ -154,3 +154,4 @@ grpcurl -plaintext localhost:50051 dbmazz.HealthService/Check
 docker logs -f dbmazz-demo-cdc
 ```
 
+
